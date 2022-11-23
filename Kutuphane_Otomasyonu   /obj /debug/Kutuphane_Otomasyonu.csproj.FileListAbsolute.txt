@@ -1,0 +1,19 @@
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.pdb
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csproj.GenerateResource.Cache
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+c:\users\fatma hacioglu\documents\visual studio 2012\Projects\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+D:\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+D:\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.exe
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\bin\Debug\Kutuphane_Otomasyonu.pdb
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form2.resources
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\ATZ\Desktop\klasör\sql\Kutuphane_Otomasyonu\Kutuphane_Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.csproj.GenerateResource.Cache
